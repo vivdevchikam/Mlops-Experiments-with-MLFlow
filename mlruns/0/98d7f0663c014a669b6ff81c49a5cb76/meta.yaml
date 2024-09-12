@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/98d7f0663c014a669b6ff81c49a5cb76/artifacts
+end_time: 1726134214510
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98d7f0663c014a669b6ff81c49a5cb76
+run_name: aged-bird-990
+run_uuid: 98d7f0663c014a669b6ff81c49a5cb76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726134214012
+status: 3
+tags: []
+user_id: ACER

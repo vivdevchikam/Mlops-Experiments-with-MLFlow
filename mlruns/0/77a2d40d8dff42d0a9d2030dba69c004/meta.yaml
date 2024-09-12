@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/77a2d40d8dff42d0a9d2030dba69c004/artifacts
+end_time: 1726133416088
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 77a2d40d8dff42d0a9d2030dba69c004
+run_name: receptive-wolf-645
+run_uuid: 77a2d40d8dff42d0a9d2030dba69c004
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726133415712
+status: 4
+tags: []
+user_id: ACER

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/491623726871397945/a6ef4ce848054ddf9e465b406661d9a3/artifacts
+deleted_time: 1726135616942
+end_time: 1726135537140
+entry_point_name: ''
+experiment_id: '491623726871397945'
+lifecycle_stage: deleted
+run_id: a6ef4ce848054ddf9e465b406661d9a3
+run_name: caring-chimp-769
+run_uuid: a6ef4ce848054ddf9e465b406661d9a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726135536603
+status: 4
+tags: []
+user_id: ACER

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5f2ca1d29f0f449ba88d6c405b9fecfd/artifacts
+end_time: 1726133375227
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5f2ca1d29f0f449ba88d6c405b9fecfd
+run_name: salty-bass-909
+run_uuid: 5f2ca1d29f0f449ba88d6c405b9fecfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726133374946
+status: 4
+tags: []
+user_id: ACER

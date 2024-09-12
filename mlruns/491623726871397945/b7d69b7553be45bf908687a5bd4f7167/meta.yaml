@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/491623726871397945/b7d69b7553be45bf908687a5bd4f7167/artifacts
+end_time: 1726135599965
+entry_point_name: ''
+experiment_id: '491623726871397945'
+lifecycle_stage: active
+run_id: b7d69b7553be45bf908687a5bd4f7167
+run_name: sincere-gull-815
+run_uuid: b7d69b7553be45bf908687a5bd4f7167
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726135591204
+status: 3
+tags: []
+user_id: ACER

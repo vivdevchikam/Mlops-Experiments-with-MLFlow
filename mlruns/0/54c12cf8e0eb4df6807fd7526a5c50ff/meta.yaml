@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/54c12cf8e0eb4df6807fd7526a5c50ff/artifacts
+end_time: 1726133348776
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 54c12cf8e0eb4df6807fd7526a5c50ff
+run_name: painted-vole-531
+run_uuid: 54c12cf8e0eb4df6807fd7526a5c50ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726133348517
+status: 4
+tags: []
+user_id: ACER
